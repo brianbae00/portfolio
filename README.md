@@ -20,7 +20,9 @@
 
 2. **Segmentation Viewer** - OpenGL  
    AI를 통해 생성된 Segmentation 파일을 렌더링하여, 관찰할 수 있는 간단한 Viewer를 개발하였습니다.
+   
    [Segmentation Viewer](https://github.com/user-attachments/assets/6b6c1151-0aea-4cef-9237-190ad324b3b6)
+   
    주요 기능:  
    1) 카메라 회전  
    2) 확대/축소  
