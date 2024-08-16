@@ -28,7 +28,7 @@
    1) 카메라 회전  
    2) 확대/축소  
    3) Segmentation에 대한 Visibility 관리 (On/Off)  
-[Segmentation Viewer](https://github.com/user-attachments/assets/6b6c1151-0aea-4cef-9237-190ad324b3b6)
+[Segmentation Viewer](https://github.com/user-attachments/assets/7a594fa0-2d65-4fac-a01b-aa1d0c40eee3)
 
 
 <br>
