@@ -31,9 +31,10 @@
 
 4. **2D 종스크롤 슈팅 게임** - Unity  
    간단한 2D 종스크롤 슈팅 게임을 개발하였습니다.  (음소거를 하고 영상을 시청하시는 것을 권장합니다)
+   
    [2D 종스크롤 슈팅 게임](https://github.com/user-attachments/assets/5f7eed5d-5c1c-4637-b611-4602672d692a)
 
-5. **2.5D 게임** - Unity (개발 중)  
+6. **2.5D 게임** - Unity (개발 중)  
    [2.5D 게임](https://github.com/user-attachments/assets/aacef84c-f71c-4e68-b0a7-a5eef259b921)
 
 ---
