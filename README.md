@@ -1,11 +1,11 @@
 # portfolio
-
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 배강현 포트폴리오
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=안녕하세요 ! c++ 그래픽스 개발자 배강현입니다.&fontSize=텍스트크기" />
 
 Intro
 
-
+안녕하세요 ! c++ 그래픽스 개발자 배강현입니다.
 
 주로 opengl과 QT Framework를 다룹니다.
 
