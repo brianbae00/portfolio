@@ -15,7 +15,7 @@
 
 1. **3D Object Hit Test** - OpenGL  
    STL 파일을 렌더링한 오브젝트에 대해 AABB 박스를 통한 Hit Test를 구현하였고, Depth 8까지 들어가는 Octree를 구현하였습니다.  
-   ![3D Object Hit Test](https://github.com/user-attachments/assets/9dccb044-96c4-4f9f-8985-fe5c82e8b470)  
+   [3D Object Hit Test](https://github.com/user-attachments/assets/9dccb044-96c4-4f9f-8985-fe5c82e8b470)  
    ![3D Object Hit Test 2](https://github.com/user-attachments/assets/1d2de8b1-4cc2-4d60-abad-576a607e0aaf)
 
 2. **Segmentation Viewer** - OpenGL  
