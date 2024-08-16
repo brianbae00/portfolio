@@ -18,6 +18,10 @@
    [aabb bounding box Hit Test](https://github.com/user-attachments/assets/9dccb044-96c4-4f9f-8985-fe5c82e8b470)  
    [apply octree in aabb bounding box](https://github.com/user-attachments/assets/1d2de8b1-4cc2-4d60-abad-576a607e0aaf)
 
+
+<br>
+
+
 2. **Segmentation Viewer** - OpenGL  
    AI를 통해 생성된 Segmentation 파일을 렌더링하여, 관찰할 수 있는 간단한 Viewer를 개발하였습니다.  
    주요 기능:  
@@ -26,10 +30,18 @@
    3) Segmentation에 대한 Visibility 관리 (On/Off)  
 [Segmentation Viewer](https://github.com/user-attachments/assets/6b6c1151-0aea-4cef-9237-190ad324b3b6)
 
+
+<br>
+
+
 3. **2D 종스크롤 슈팅 게임** - Unity  
    간단한 2D 종스크롤 슈팅 게임을 개발하였습니다.  
    **음소거하고 영상 시청을 권장드립니다.**  
    [2D 종스크롤 슈팅 게임](https://github.com/user-attachments/assets/5f7eed5d-5c1c-4637-b611-4602672d692a)
+
+
+<br>
+
 
 4. **2.5D 게임** - Unity (개발 중)  
    [2.5D 게임](https://github.com/user-attachments/assets/aacef84c-f71c-4e68-b0a7-a5eef259b921)
