@@ -53,8 +53,7 @@
 5. **Cube 3D Manipulator** - Qt6  
    Qt로 큐브를 조작할 수 있는 3D Manipulator를 만들었습니다.
    
-   https://www.youtube.com/watch?v=TrFRgdzdZ4g    (큐브의 transform)
-
+   https://www.youtube.com/watch?v=TrFRgdzdZ4g    (큐브의 transform)  
    https://www.youtube.com/watch?v=z7BfawgjPp4    (world camera의 transform)
 
 
