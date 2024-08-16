@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/fb54a44e-d676-43fc-b420-9d0347d7da84
 # portfolio
 
 배강현 포트폴리오
@@ -11,7 +9,6 @@ Intro
 
 1. 3d Object Hit Test - opengl
    stl 파일을 렌더링한 object에 대해서 aabb box를 통한 hit test를 구현하였고 , depth 8까지 들어가는 Octree를 구현하였습니다.
-   
 
 https://github.com/user-attachments/assets/9dccb044-96c4-4f9f-8985-fe5c82e8b470
 https://github.com/user-attachments/assets/1d2de8b1-4cc2-4d60-abad-576a607e0aaf
