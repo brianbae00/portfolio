@@ -61,13 +61,8 @@
 
 
 6. **Cube Shader** - opengl (glsl)
-  간단한 큐브 vertex , fragment shader
-
-[큐브 쉐이더](https://github.com/user-attachments/assets/e9c0d485-c177-4f07-92f6-25fb9080f232)
-
-
-   
-
+  간단한 큐브 vertex , fragment shader   
+  [큐브 쉐이더](https://github.com/user-attachments/assets/e9c0d485-c177-4f07-92f6-25fb9080f232)
 
 
 <br>
