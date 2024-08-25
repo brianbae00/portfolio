@@ -14,9 +14,13 @@
 ### 📂 진행한 프로젝트들
 
 1. **3D Object Hit Test** - OpenGL  
-   STL 파일을 렌더링한 오브젝트에 대해 AABB 박스를 통한 Hit Test를 구현하였고, Depth 8까지 들어가는 Octree를 구현하였습니다.  
-   [aabb bounding box Hit Test](https://github.com/user-attachments/assets/9dccb044-96c4-4f9f-8985-fe5c82e8b470)  
+   STL 파일을 렌더링한 오브젝트에 대해 AABB 박스를 통한 Hit Test를 구현하였고, Depth 8까지 들어가는 Octree를 구현하였습니다.
+
+   영상 :
+   [aabb bounding box Hit Test](https://github.com/user-attachments/assets/9dccb044-96c4-4f9f-8985-fe5c82e8b470)   
    [apply octree in aabb bounding box](https://github.com/user-attachments/assets/1d2de8b1-4cc2-4d60-abad-576a607e0aaf)
+
+   코드 : https://github.com/brianbae00/3d_bounding_box
 
 
 <br>
@@ -27,8 +31,11 @@
    주요 기능:  
    1) 카메라 회전  
    2) 확대/축소  
-   3) Segmentation에 대한 Visibility 관리 (On/Off)  
-[Segmentation Viewer](https://github.com/user-attachments/assets/7a594fa0-2d65-4fac-a01b-aa1d0c40eee3)
+   3) Segmentation에 대한 Visibility 관리 (On/Off)
+      
+   영상 : [Segmentation Viewer](https://github.com/user-attachments/assets/7a594fa0-2d65-4fac-a01b-aa1d0c40eee3)
+
+   코드 : https://github.com/brianbae00/3d_rendering_opengl
 
 
 <br>
@@ -61,8 +68,11 @@
 
 
 6. **Cube Shader** - opengl (glsl)
-  간단한 큐브 vertex , fragment shader   
-  [큐브 쉐이더](https://github.com/user-attachments/assets/e9c0d485-c177-4f07-92f6-25fb9080f232)
+  간단한 큐브 vertex , fragment shader
+
+     영상 : [큐브 쉐이더](https://github.com/user-attachments/assets/e9c0d485-c177-4f07-92f6-25fb9080f232)
+  
+     코드 : https://github.com/brianbae00/cube_shader
 
 
 <br>
