@@ -67,6 +67,13 @@
 
 <br>
 
+
+7. **2d hit test** - opengl
+   
+    2d polygon hit test 구현
+   
+   코드 및 영상 : https://github.com/brianbae00/2d_hit_test
+
 ---
 
 ### 🌟 Footer
