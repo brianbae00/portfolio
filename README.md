@@ -50,14 +50,8 @@
 <br>
 
 
-4. **2.5D 게임** - Unity (개발 중)  
-   [2.5D 게임](https://github.com/user-attachments/assets/aacef84c-f71c-4e68-b0a7-a5eef259b921)
 
-
-<br>
-
-
-5. **Cube 3D Manipulator** - Qt6  
+4. **Cube 3D Manipulator** - Qt6  
    Qt로 큐브를 조작할 수 있는 3D Manipulator를 만들었습니다.(오스템 임플란트에서 재직할 때 개발한 프로젝트가 아니며, 그보다 훨씬 전에 만들었던 프로젝트입니다.)(오스템 임플란트에사 개발한 기능들은 공개가 불가능합니다.)
    
    https://www.youtube.com/watch?v=TrFRgdzdZ4g    (큐브의 transform)  
@@ -67,7 +61,7 @@
 <br>
 
 
-6. **Cube Shader** - opengl (glsl)
+5. **Cube Shader** - opengl (glsl)
   간단한 큐브 vertex , fragment shader
 
      영상 : [큐브 쉐이더](https://github.com/user-attachments/assets/e9c0d485-c177-4f07-92f6-25fb9080f232)
@@ -78,7 +72,7 @@
 <br>
 
 
-7. **2d hit test** - opengl
+6. **2d hit test** - opengl
    
     2d polygon hit test 구현
    
