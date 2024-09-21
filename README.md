@@ -20,7 +20,6 @@
    [aabb bounding box Hit Test](https://github.com/user-attachments/assets/9dccb044-96c4-4f9f-8985-fe5c82e8b470)   
    [apply octree in aabb bounding box](https://github.com/user-attachments/assets/1d2de8b1-4cc2-4d60-abad-576a607e0aaf)
 
-   코드 : https://github.com/brianbae00/3d_bounding_box
 
 
 <br>
@@ -35,7 +34,6 @@
       
    영상 : [Segmentation Viewer](https://github.com/user-attachments/assets/7a594fa0-2d65-4fac-a01b-aa1d0c40eee3)
 
-   코드 : https://github.com/brianbae00/3d_rendering_opengl
 
 
 <br>
@@ -66,7 +64,6 @@
 
      영상 : [큐브 쉐이더](https://github.com/user-attachments/assets/e9c0d485-c177-4f07-92f6-25fb9080f232)
   
-     코드 : https://github.com/brianbae00/cube_shader
 
 
 <br>
