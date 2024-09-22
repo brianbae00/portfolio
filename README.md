@@ -26,7 +26,7 @@
 
 
 2. **Segmentation Viewer** - OpenGL  
-   AI를 통해 생성된 Segmentation 파일을 렌더링하여, 관찰할 수 있는 간단한 Viewer를 개발하였습니다.  
+   AI를 통해 생성된 Segmentation 파일을 로드 및 렌더링하여, 관찰할 수 있는 간단한 Viewer Application을 개발하였습니다.  
    주요 기능:  
    1) 카메라 회전  
    2) 확대/축소  
@@ -50,7 +50,7 @@
 
 
 4. **Cube 3D Manipulator** - Qt6  
-   Qt로 큐브를 조작할 수 있는 3D Manipulator를 만들었습니다.(오스템 임플란트에서 재직할 때 개발한 프로젝트가 아니며, 그보다 훨씬 전에 만들었던 프로젝트입니다.)(오스템 임플란트에사 개발한 기능들은 공개가 불가능합니다.)
+   Qt로 큐브를 조작할 수 있는 3D Manipulator를 개발하였습니다.(오스템 임플란트에서 재직할 때 개발한 프로젝트가 아니며, 그보다 훨씬 전에 만들었던 프로젝트입니다.)(오스템 임플란트에사 개발한 기능들은 공개가 불가능합니다.)
    
    https://www.youtube.com/watch?v=TrFRgdzdZ4g    (큐브의 transform)  
    https://www.youtube.com/watch?v=z7BfawgjPp4    (world camera의 transform)
