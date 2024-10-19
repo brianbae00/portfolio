@@ -75,6 +75,18 @@
    
    코드 및 영상 : https://github.com/brianbae00/2d_hit_test
 
+
+<br>
+
+
+7. **Generate 2D Figures** - Qt
+   
+   ppt처럼 도형들을 만들고 이동, 회전 및 크기 조절을 할 수 있는 프로그램 구현
+
+   영상 : [2d 도형만들기 툴](https://github.com/user-attachments/assets/29cffb28-d170-44e4-82e9-4761407d0e8d)
+
+
+
 ---
 
 ### 🌟 Footer
