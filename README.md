@@ -38,18 +38,7 @@
 
 <br>
 
-
-3. **2D 종스크롤 슈팅 게임** - Unity  
-   간단한 2D 종스크롤 슈팅 게임을 개발하였습니다.  
-   **음소거하고 영상 시청을 권장드립니다.**  
-   [2D 종스크롤 슈팅 게임](https://github.com/user-attachments/assets/5f7eed5d-5c1c-4637-b611-4602672d692a)
-
-
-<br>
-
-
-
-4. **Cube 3D Manipulator** - Qt6  
+3. **Cube 3D Manipulator** - Qt6  
    Qt로 큐브를 조작할 수 있는 3D Manipulator를 개발하였습니다.(오스템 임플란트에서 재직할 때 개발한 프로젝트가 아니며, 그보다 훨씬 전에 만들었던 프로젝트입니다.)(오스템 임플란트에사 개발한 기능들은 공개가 불가능합니다.)
    
    https://www.youtube.com/watch?v=TrFRgdzdZ4g    (큐브의 transform)  
@@ -59,7 +48,7 @@
 <br>
 
 
-5. **Cube Shader** - opengl (glsl)
+4. **Cube Shader** - opengl (glsl)
   간단한 큐브 vertex , fragment shader
 
      영상 : [큐브 쉐이더](https://github.com/user-attachments/assets/e9c0d485-c177-4f07-92f6-25fb9080f232)
@@ -69,7 +58,7 @@
 <br>
 
 
-6. **2d hit test** - opengl
+5. **2d hit test** - opengl
    
     2d polygon hit test 구현
    
@@ -79,7 +68,7 @@
 <br>
 
 
-7. **Generate 2D Figures** - Qt
+6. **Generate 2D Figures** - Qt
    
    ppt처럼 도형들을 만들고 이동, 회전 및 크기 조절을 할 수 있는 프로그램 구현
 
