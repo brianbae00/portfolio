@@ -26,7 +26,11 @@
 
 
 2. **Segmentation Viewer** - OpenGL  
-   AI를 통해 생성된 Segmentation 파일을 로드 및 렌더링하여, 관찰할 수 있는 간단한 Viewer Application을 개발하였습니다.  
+   AI를 통해 생성된 Segmentation 파일을 로드 및 렌더링하여, 관찰할 수 있는 간단한 Viewer Application을 개발하였습니다.
+
+   Stl 파일은 ascii, binary 두 형태의 파일 모두 읽고 로드 할 수 있습니다.
+
+
    주요 기능:  
    1) 카메라 회전  
    2) 확대/축소  
