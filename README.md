@@ -79,6 +79,19 @@
    영상 : [2d 도형만들기 툴](https://github.com/user-attachments/assets/29cffb28-d170-44e4-82e9-4761407d0e8d)
 
 
+<br>
+
+
+7. **Unity 3D Game(미완성, 개발초기)**
+   무료 에셋들을 다운.
+
+   걷고, 달리고, 점프하고, 공격하여 동물을 잡는 것 구현 ( 영상을 압축하다보니 화질이 다소 낮습니다. )
+   
+   영상 : [unity 3d game](https://github.com/user-attachments/assets/4b09b43a-6ef3-490e-971f-0fcfe84ea9bb)
+
+
+
+
 
 ---
 
