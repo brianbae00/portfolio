@@ -18,7 +18,7 @@
 2. Guide object를 design하기 위한 **mesh boolean** 알고리즘 개발
 3. **3D 수학**을 이용한 그래픽스 개발 ( camera, object 등등 )
 4. UI 개발 및 기능연동 ( **풀스택** 가능 )
-5. 멀티 스레드 프로그래밍 등 시스템 프로그래밍 지식 보유
+5. 멀티 스레드 프로그래밍 등 **시스템 프로그래밍** 지식 보유
 
 
 
@@ -47,26 +47,13 @@
 
 2. **Generate 2D Figures** - Qt
    
-   ppt처럼 도형들을 만들고 이동, 회전 및 크기 조절을 할 수 있는 프로그램 구현
+   ppt처럼 도형들을 만들고 이동, 회전 및 크기 조절을 할 수 있는 프로그램
 
    영상 : [2d 도형만들기 툴](https://github.com/user-attachments/assets/29cffb28-d170-44e4-82e9-4761407d0e8d)
 
 
-
-### 📂 연습용 과제들
-
-
 <br>
 
-
-1. **Cube 3D Manipulator** - Qt6  
-   Qt로 큐브를 조작할 수 있는 3D Manipulator를 개발하였습니다.(2년전 처음 공부할 때 혼자 개발했던 프로그램으로, 코드도 남아있지 않고 완성도도 많이 떨어집니다.)
-   
-   https://www.youtube.com/watch?v=TrFRgdzdZ4g    (큐브의 transform)  
-   https://www.youtube.com/watch?v=z7BfawgjPp4    (world camera의 transform)
-
-
-<br>
 
 ---
 
