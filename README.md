@@ -60,7 +60,7 @@
 
 
 1. **Cube 3D Manipulator** - Qt6  
-   Qt로 큐브를 조작할 수 있는 3D Manipulator를 개발하였습니다.(처음 공부할 때 혼자 개발했던 프로그램으로, 코드도 남아있지 않고 완성도도 많이 떨어집니다.)
+   Qt로 큐브를 조작할 수 있는 3D Manipulator를 개발하였습니다.(2년전 처음 공부할 때 혼자 개발했던 프로그램으로, 코드도 남아있지 않고 완성도도 많이 떨어집니다.)
    
    https://www.youtube.com/watch?v=TrFRgdzdZ4g    (큐브의 transform)  
    https://www.youtube.com/watch?v=z7BfawgjPp4    (world camera의 transform)
