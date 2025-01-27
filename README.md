@@ -14,10 +14,10 @@
 
 ### 📂 현업 프로젝트 (간단 설명)
 환자의 임플란트 수술을 위한 design simulation 프로그램을 개발중
-1. 의료영상 처리를 기반으로한 알고리즘 개발
-2. Guide object를 design하기 위한 mesh boolean 알고리즘 개발
-3. 3D 수학을 이용한 그래픽스 개발 ( camera, object 등등 )
-4. UI 개발 및 기능연동 ( 풀스택 가능 )
+1. 의료**영상 처리**를 기반으로한 알고리즘 개발
+2. Guide object를 design하기 위한 **mesh boolean** 알고리즘 개발
+3. **3D 수학**을 이용한 그래픽스 개발 ( camera, object 등등 )
+4. UI 개발 및 기능연동 ( **풀스택** 가능 )
 
 
 
