@@ -6,10 +6,22 @@
 
 ### 👋 Intro
 
-안녕하세요! 현직 2년차 그래픽스 TA 개발자 **배강현**입니다.  
+안녕하세요! 오스템 임플란트 현직, 2년차 그래픽스 TA 개발자 **배강현**입니다.  
 주로 **OpenGL**과 **Qt Framework**를 다룹니다. ( C++ )
 
 ---
+
+
+### 📂 현업 프로젝트 (간단 설명)
+환자의 임플란트 수술을 위한 design simulation 프로그램을 개발중
+1. 의료영상 처리를 기반으로한 알고리즘 개발
+2. Guide object를 design하기 위한 mesh boolean 알고리즘 개발
+3. 3D 수학을 이용한 그래픽스 개발 ( camera, object 등등 )
+4. UI 개발 및 기능연동 ( 풀스택 가능 )
+
+
+
+
 
 ### 📂 진행한 프로젝트들
 
@@ -44,49 +56,17 @@
 ### 📂 연습용 과제들
 
 
-1. **3D Object Hit Test** - OpenGL  
-   STL 파일을 렌더링한 오브젝트에 대해 AABB 박스를 통한 Hit Test를 구현하였고, Depth 8까지 들어가는 Octree를 구현하였습니다.
-
-   영상 :
-   [aabb bounding box Hit Test](https://github.com/user-attachments/assets/9dccb044-96c4-4f9f-8985-fe5c82e8b470)   
-   [apply octree in aabb bounding box](https://github.com/user-attachments/assets/1d2de8b1-4cc2-4d60-abad-576a607e0aaf)
-
-
-
 <br>
 
 
-
-2. **Cube 3D Manipulator** - Qt6  
-   Qt로 큐브를 조작할 수 있는 3D Manipulator를 개발하였습니다.(처음 공부할 때 개발했던 프로그램으로, 코드도 남아있지 않고 완성도도 많이 떨어집니다.)
+1. **Cube 3D Manipulator** - Qt6  
+   Qt로 큐브를 조작할 수 있는 3D Manipulator를 개발하였습니다.(처음 공부할 때 혼자 개발했던 프로그램으로, 코드도 남아있지 않고 완성도도 많이 떨어집니다.)
    
    https://www.youtube.com/watch?v=TrFRgdzdZ4g    (큐브의 transform)  
    https://www.youtube.com/watch?v=z7BfawgjPp4    (world camera의 transform)
 
 
 <br>
-
-
-
-3. **Cube Shader** - opengl (glsl)
-  간단한 큐브 vertex , fragment shader
-
-     영상 : [큐브 쉐이더](https://github.com/user-attachments/assets/e9c0d485-c177-4f07-92f6-25fb9080f232)
-
-
-
-<br>
-
-
-4. **2d hit test** - opengl
-   
-    2d polygon hit test 구현
-   
-   코드 및 영상 : https://github.com/brianbae00/2d_hit_test
-  
-
-<br>
-
 
 ---
 
