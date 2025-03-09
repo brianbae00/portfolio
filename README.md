@@ -55,6 +55,18 @@
 <br>
 
 
+3. **Manipulators** - Qt, opengl
+
+mpr slice view에서 오브젝트를 조작할 수 있는 manipulator
+
+영상 : [Implant Manipulator](https://github.com/user-attachments/assets/36889682-6ca0-426c-a20a-746892881c26)
+
+영상 : [Jaw Manipulator](https://github.com/user-attachments/assets/fee30ab8-d408-4791-b312-862cb9c54979)
+
+
+
+
+
 ---
 
 ### 🌟 Footer
