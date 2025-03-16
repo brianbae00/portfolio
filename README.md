@@ -35,7 +35,7 @@
    주요 기능:  
    1) 카메라 회전  
    2) 확대/축소  
-   3) Segmentation에 대한 Visibility 관리 (On/Off)
+   3) Segmentation에 대한 Visibility 관리 (On/Off , 최대 4개까지 로드 가능 )
       
    영상 : [Segmentation Viewer](https://github.com/user-attachments/assets/7a594fa0-2d65-4fac-a01b-aa1d0c40eee3)
 
@@ -53,18 +53,6 @@
 
 
 <br>
-
-
-3. **Manipulators** - Qt, opengl
-
-mpr slice view에서 오브젝트를 조작할 수 있는 manipulator
-
-영상 : [Implant Manipulator](https://github.com/user-attachments/assets/36889682-6ca0-426c-a20a-746892881c26)
-
-영상 : [Jaw Manipulator](https://github.com/user-attachments/assets/fee30ab8-d408-4791-b312-862cb9c54979)
-
-
-
 
 
 ---
